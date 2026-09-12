@@ -1,5 +1,9 @@
  Hi, I'm Aditya Singh 👋
- AI/ML Engineer | Python • DSA • Machine Learning
+ 
+ 
+AI/ML Engineer 
+Python  DSA 
+Machine Learning
 I'm a Computer Science student focused on **Artificial Intelligence, Machine Learning, and Software Engineering**.
 I enjoy solving problems, building practical software, and exploring how AI can be applied to real-world challenges.
 
